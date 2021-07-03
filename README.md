@@ -1,5 +1,7 @@
 # Contoso
-A project using Power BI
+## A project using Power BI
+
+To view the project: 
 
 Click on Code --> Download Zip
 
